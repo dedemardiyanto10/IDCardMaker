@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IDCardMaker</string>
+
+    <array name="gender">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </array>
+
+</resources>
